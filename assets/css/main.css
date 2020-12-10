@@ -1,3 +1,37 @@
 body {
-    background-color: blue;
+    background-color: burlywood;
+}
+
+header {
+    width: 100%;
+    height: auto;
+    background-color: cornflowerblue;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: darkseagreen;
+}
+
+section {
+    background-color: aquamarine;
+    margin: 20px 10px;
+    width: auto;
+    height: auto;
+}
+
+p {
+    padding: 20px;
+}
+
+img {
+    margin: 20px;
+}
+
+.puppy-1 {
+    float: left;
+}
+
+.puppy-2 {
+    float: right;
 }
